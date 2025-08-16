@@ -47,4 +47,4 @@ The data used is a HR_Analytics.csv
 I followed a YouTube tutorial while making this project.  
 Thanks to the creator for clear and useful guidance.  
 
-🔗 Tutorial Link: [[Add the YouTube Video Link here](https://www.youtube.com/watch?v=j4xlVLgsmNQ&t=129s)]  
+🔗 Tutorial Link: [Tutorial URL](https://www.youtube.com/watch?v=j4xlVLgsmNQ&t=129s) 
