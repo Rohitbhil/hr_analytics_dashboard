@@ -44,7 +44,7 @@ The data used is a HR_Analytics.csv
 ---
 
 ## Acknowledgement
-I followed a YouTube tutorial while making this project.  
-Thanks to the creator for clear and useful guidance.  
+I followed a YouTube tutorial by Rishabh Mishra while making this project.  
+Thanks to them for providing clear and useful guidance. 
 
 🔗 Tutorial Link: [Tutorial URL](https://www.youtube.com/watch?v=j4xlVLgsmNQ&t=129s) 
